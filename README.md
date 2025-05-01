@@ -31,20 +31,20 @@ python extracao_youtube.py
 
 streamlit run painel.py
 
-# Pré-requisitos
+## Pré-requisitos
 
 - Chave de API do Spotify (https://developer.spotify.com/dashboard)
 - Chave de API do YouTube (https://console.cloud.google.com)
 
 
-# Resultado Esperado
+## Resultado Esperado
 
 - Tabelas com músicas e vídeos populares
 - Gráfico com a popularidade das músicas no painel Streamlit
 - Visualização fácil de comparar os conteúdos das duas plataformas
 
 
-# Tecnologias
+## Tecnologias
 
 - Python
 - Spotipy

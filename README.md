@@ -3,9 +3,9 @@
 Este projeto coleta dados de músicas populares no Spotify e vídeos populares no YouTube, organiza esses dados em tabelas e visualiza os resultados em um painel interativo criado com Streamlit.
 
 ## 👨‍💻 Equipe
-- Nome 1
-- Nome 2
-- Nome 3
+- Erick Carrasco (Kcarrasco)
+- Lucas Vicente (Luquinhasaf)
+- Dandara Gouveia (Dara8)
 
 ## 📦 Estrutura
 

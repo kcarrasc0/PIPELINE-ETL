@@ -2,6 +2,9 @@
 
 Projeto que coleta dados de músicas populares no Spotify e vídeos populares no YouTube, organiza esses dados em tabelas e visualiza os resultados em um painel interativo criado com Streamlit.
 
+## ⚠️ AVISO IMPORTANTE:
+Caso ocorra um erro no dashboard execute esse dois comando no terminal (python extracao_spotify.py e python extracao_youtube.py), e se mesmo assim o spotify não responder, mude o id da playlist. Muitas vezes o spotify tira playlist do ar, então escolha qualquer uma de um artista que você gosta
+
 ## 👨‍💻 Equipe
 - Erick Carrasco (Kcarrasco)
 - Lucas Vicente (Luquinhasaf)

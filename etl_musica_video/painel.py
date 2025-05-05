@@ -10,7 +10,7 @@ df_spotify = pd.read_csv("spotify_data.csv")
 df_youtube = pd.read_csv("youtube_data.csv")
 
 # Carregar imagem
-img = Image.open("brasisilsisl.png")
+img = Image.open("brasil.png")
 
 # Layout com colunas: imagem ao lado do título
 col1, col2 = st.columns([1, 4])

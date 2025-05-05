@@ -4,12 +4,12 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 # Autenticação
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
-    client_id="b5378e3b030a47908ca495535af59478",
-    client_secret="5ad53c1acc8f4995b9b7f0a65c4be670"
+    client_id="0771db6a29d0452eb9ac0504e73ba551",
+    client_secret="7c133c4acb584fc1b9b065927a283daf"
 ))
 
-# Playlist "Top Brasil"
-playlist_id = "7xwSv337EetpUTnQLgxFbW"  # Top Músicas da playlist Thi is Souto MC
+
+playlist_id = "4oEOPYBlYOOGKzhQgDxLKy"  
 result = sp.playlist_items(playlist_id, limit=20)
 
 musicas = []

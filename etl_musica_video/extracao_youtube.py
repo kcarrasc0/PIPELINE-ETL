@@ -1,7 +1,7 @@
 import pandas as pd
 from googleapiclient.discovery import build
 
-api_key = "AIzaSyAi_uOcEhwLJXSwlpgaSBLPPtTrA-5c4wY"
+
 youtube = build("youtube", "v3", developerKey=api_key)
 
 request = youtube.videos().list(

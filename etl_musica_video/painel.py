@@ -10,7 +10,6 @@ df_spotify = pd.read_csv("spotify_data.csv")
 df_youtube = pd.read_csv("youtube_data.csv")
 
 
-
 # Mostrar tabela Spotify
 st.dataframe(df_spotify)
 

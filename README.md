@@ -7,7 +7,7 @@ Caso ocorra um erro no dashboard execute esse dois comando no terminal (python e
 
 ## 👨‍💻 Equipe
 - Erick Carrasco (Kcarrasco)
-- Lucas Vicente (Luquinhasaf)
+- Lucas Vicente (Luquinhasaff)
 - Dandara Gouveia (Dara8)
 
 
